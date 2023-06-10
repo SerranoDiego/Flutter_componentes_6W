@@ -1,0 +1,19 @@
+//Controlador para pantallas del proyecto
+export 'package:fluttercomponentes6w/screens/listview1_screen.dart';
+export 'package:fluttercomponentes6w/screens/home.dart';
+export 'package:fluttercomponentes6w/screens/listview2_screen.dart';
+export 'package:fluttercomponentes6w/screens/tabview_screen.dart';
+export 'package:fluttercomponentes6w/screens/buttonview_screen.dart';
+export 'package:fluttercomponentes6w/screens/gridview_screen.dart';
+export 'package:fluttercomponentes6w/screens/card_screen.dart';
+export 'package:fluttercomponentes6w/screens/Iconview_screen.dart';
+export 'package:fluttercomponentes6w/screens/alertdialog_screen.dart';
+export 'package:fluttercomponentes6w/screens/checkbox_screen.dart';
+export 'package:fluttercomponentes6w/screens/linearprogress_screen.dart';
+export 'package:fluttercomponentes6w/screens/switch_screen.dart';
+export 'package:fluttercomponentes6w/screens/circularprogress_screen.dart';
+export 'package:fluttercomponentes6w/screens/drawer_screen.dart';
+export 'package:fluttercomponentes6w/screens/radiobutton_screen.dart';
+export 'package:fluttercomponentes6w/screens/snackbar_screen.dart';
+export 'package:fluttercomponentes6w/screens/textbutton_screen.dart';
+export 'package:fluttercomponentes6w/screens/slider_screen.dart';
